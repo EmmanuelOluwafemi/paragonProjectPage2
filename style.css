@@ -115,7 +115,7 @@ body {
     height: 100%;
     top: 0;
     left: 0;
-    background: rgba(0, 0, 0, .9);
+    background: rgba(0, 0, 0, .7);
 }
 
 .cover-text {
@@ -154,7 +154,6 @@ body {
 
 
 /* Carousel */
-
 .carousel-caption {
     width: 50%;
     margin: 0 auto;
